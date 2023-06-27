@@ -1,14 +1,14 @@
 import  requests
 from datetime import datetime
 pixela_endpoint = "https://pixe.la/v1/users"
-USERNAME = "grovwer"
-TOKEN = "fdgfdgwerfdsfsdfv"
+USERNAME = "**ovw*r"
+TOKEN = "****werfdsf***v"
 GRAPH_ID = "graph1"
 
 
 user_parametr = {
-    "token": "fdgfdgwerfdsfsdfv",
-    "username": "grovwer",
+    "token": "****werfdsf***v"
+    "username": "**ovw*r",
     "agreeTermsOfService": "yes",
     "notMinor": "yes",
 
